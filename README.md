@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Github Stats for Ronald Escalona](https://github-readme-stats.vercel.app/api?username=ronaldescalona&count_private=true)
 
 <!--
 **ronaldescalona/ronaldescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
