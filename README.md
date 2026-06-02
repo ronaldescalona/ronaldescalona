@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Github Stats for Ronald Escalona](https://github-stats-extended.vercel.app/api?username=ronaldescalona)](https://github.com/stats-organization/github-stats-extended)
-
+![Github Stats for Ronald Escalona](https://github-stats-extended.vercel.app/api?username=ronaldescalona)
 <!--
 **ronaldescalona/ronaldescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
