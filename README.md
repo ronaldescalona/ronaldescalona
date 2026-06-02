@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Github Stats for Ronald Escalona](https://github-stats-extended.vercel.app/api?username=ronaldescalona)
 <!--
+![Github Stats for Ronald Escalona](https://github-stats-extended.vercel.app/api?username=ronaldescalona)
 **ronaldescalona/ronaldescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
